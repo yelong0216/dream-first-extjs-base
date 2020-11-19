@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+dream.first.extjs.base.configuration.ExtJSBaseResourceConfiguration,\
+dream.first.extjs.base.configuration.ExtJSBaseResourceResponderConfiguration,\
+dream.first.extjs.base.configuration.ServletResourceTemplateResourceHandlerConfiguration,\
+dream.first.extjs.base.configuration.HttpSessionIdResolverConfiguration
